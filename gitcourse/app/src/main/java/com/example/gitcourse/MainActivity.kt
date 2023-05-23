@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("This is contained in my second commit")
+        println("CHANGE 2")
         println("To test stash function")
         println("Experimental changes")
     }
