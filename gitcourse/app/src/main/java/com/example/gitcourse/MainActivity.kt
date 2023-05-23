@@ -10,5 +10,8 @@ class MainActivity : AppCompatActivity() {
 
         println("This is contained in my second commit")
         println("CHANGE 1")
+        println("CHANGE 2")
+        println("To test stash function")
+        println("Experimental changes")
     }
 }
