@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">oauthcourse</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="com_auth0_client_id">eS95FbbfzfH8cu8IoeGhkaTuhSy4dg7P</string>
+    <string name="com_auth0_domain">dev-24bltbf3hmhamqbk.us.auth0.com</string>
+    <string name="com_auth0_scheme">demo</string>
+    <string name="com_auth0_custom_schem">myapp</string>
+</resources>
+
